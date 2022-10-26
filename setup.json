@@ -1,9 +1,8 @@
 [
 	{
 		"id": 92,
-		"use_standard_fields": false,
-		"module_name": {
-			"value": "Blog Editor"
-		}
+		"type": "module",
+		"name": "Blog Editor",
+		"use_standard_fields": false
 	}
 ]
